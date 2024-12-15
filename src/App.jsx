@@ -231,15 +231,19 @@ const App = () => {
           </div>
         )}
       </div>
+      <div className="footer">
+        <p className="text-white text-center mt-4">
+        Made with ❤️ by Surajit Sen</p>
     </div>
-  );
+  </div>
+);
 
   function strengthColor(strength) {
     if (strength === 'Very Strong') return 'text-green-600';
     if (strength === 'Strong') return 'text-green-500';
     if (strength === 'Moderate') return 'text-yellow-500';
     if (strength === 'Weak') return 'text-red-500';
-    return 'text-gray-500';
+    return 'text-red-500';
   }
 };
 
