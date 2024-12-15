@@ -231,11 +231,6 @@ const App = () => {
           </div>
         )}
       </div>
-
-      {/* Footer */}
-      <footer className="absolute bottom-0 left-0 right-0 bg-gray-800 text-white text-center p-4 mt-6">
-      <p>Made with ❤️ by Surajit</p>
-      </footer>
     </div>
   );
 
