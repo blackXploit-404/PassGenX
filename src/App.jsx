@@ -130,7 +130,7 @@ const App = () => {
       {/* GitHub Badge */}
       <a href="https://github.com/blackXploit-404" target="_blank" rel="noopener noreferrer">
         <img 
-          src="https://img.shields.io/github/stars/your-github-username/your-repository-name?style=social" 
+          src="https://img.shields.io/github/stars/blackXploit-404/PassGenX?style=social" 
           alt="GitHub stars" 
           className="absolute top-4 right-4"
         />
