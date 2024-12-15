@@ -55,7 +55,7 @@ npm start
 
 ## Screenshots 📸
 
-![PassGenX Screenshot](./src/images/image.png/600x400)
+![PassGenX Screenshot](https://github.com/blackXploit-404/PassGenX/blob/main/src/images/image.png/600x400)
 
 ---
 
