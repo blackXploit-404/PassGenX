@@ -55,7 +55,7 @@ npm start
 
 ## Screenshots 📸
 
-![PassGenX Screenshot](src/images/image.png/600x400)
+![PassGenX Screenshot](https://imgur.com/a/KT1VmG9/600x400)
 
 ---
 
